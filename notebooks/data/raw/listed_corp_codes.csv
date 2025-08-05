@@ -1205,7 +1205,6 @@ corp_code,corp_name,corp_eng_name,stock_code
 00167280,폴루스바이오팜,POLUS BioPharm Inc.,007630
 00105299,금강공업,"KUMKANG KIND CO.,LTD",014280
 00110893,대신증권,"DAISHIN SECURITIES CO.,LTD",003540
-01689938,신영스팩9호,Shinyoung HappyTomorrow No.9 Special Purpose Acquisition Company,445970
 01316236,효성화학,Hyosung Chemical Corporation,298000
 00623661,원익머트리얼즈,"WONIK Materials Co.,Ltd.",104830
 00159102,DB손해보험,"DB INSURANCE CO.,LTD",005830
@@ -1575,7 +1574,6 @@ corp_code,corp_name,corp_eng_name,stock_code
 00108612,DS단석,"DS DANSUK CO., LTD.",017860
 01791321,하나30호스팩,Hana 30 Special Purpose Acquisition Company,469880
 01528530,삼성기업인수목적4호,SAMSUNG SPECIAL PURPOSE ACQUISITION 4 COMPANY,377630
-00693554,티케이케미칼,TK CHEMICAL CORPORATION,104480
 01032404,콜마비앤에이치,"KolmarBNH Co., Ltd",200130
 00149293,신한은행,SHINHAN BANK,000010
 00606664,케이엔더블유,"KNW Co., Ltd.",105330
@@ -2191,7 +2189,6 @@ corp_code,corp_name,corp_eng_name,stock_code
 01672114,한국제11호기업인수목적,"Korea No.11 Special Purpose Acquisition Co., LTD.",436610
 00909835,차이커뮤니케이션,"Chai Communication Co., LTD.",351870
 00117027,알루코,"ALUKO CO.,LTD.",001780
-01409022,현대ADM,Hyundai ADM Bio lnc.,187660
 00159874,한국지주,Korea Holidings Incorporated,009760
 00111829,대웅바이오,Daewoong Bio Inc.,016890
 00115427,신동방CP,ShinDongBang CP Corporation,004660
@@ -2600,7 +2597,6 @@ corp_code,corp_name,corp_eng_name,stock_code
 01047169,지란지교시큐리티,"Jiransecurity Co., Ltd.",208350
 01078178,RFHIC,RFHIC CORPORATION,218410
 01095722,심텍,"SIMMTECH Co., Ltd.",222800
-01199727,샘씨엔에스,"SEMCNS Co., Ltd.",252990
 01288410,셀바이오휴먼텍,"Cell Bio Human Tech Co., Ltd",318160
 01514005,크라우드웍스,"CrowdWorks, Inc.",355390
 01538528,에이에스텍,"ASTech  Co., Ltd.",453860
@@ -2680,12 +2676,10 @@ corp_code,corp_name,corp_eng_name,stock_code
 00397191,팬엔터테인먼트,"PANENTERTAINMENTCO.,LTD.",068050
 00445054,하나마이크론,HanaMicronInc.,067310
 00131780,SK네트웍스,SKNetworksCompanyLimited,001740
-00220109,알파녹스,"Alphanox Co.,Ltd.",043100
 01854763,HS효성,HS HYOSUNG Corporation,487570
 00155638,피에스텍,"PS Tec. Co., Ltd.",002230
 01276901,엔피,NP Inc.,291230
 01302853,아이씨에이치,"ICH Co., Ltd.",368600
-01516456,인벤티지랩,Inventage Lab Inc.,389470
 01573284,코닉오토메이션,Kornic Automation Co.Ltd.,391710
 01804476,유안타제16호스팩,Yuanta 16 SPECIAL PURPOSE ACQUISITION COMPANY,474490
 00138206,쌍용건설,"Ssangyong Engineering & Construction Co., Ltd. ",012650
@@ -2745,7 +2739,6 @@ corp_code,corp_name,corp_eng_name,stock_code
 01435489,범한퓨얼셀,"Bumhan Fuel Cell Co.,Ltd.",382900
 00311216,에이치엔에스하이텍,H&SHigh Tech Corp.,044990
 01270749,웨이비스,Wavice Inc.,289930
-00122825,인스코비,"Inscobee, Inc",006490
 00132211,SUN&L,"SUN&L CO.,LTD",002820
 01011526,엔켐,"Enchem Co., Ltd.",348370
 01817610,대신밸런스제18호스팩,Daishin Balance No.18 Special Purpose Acquisition Company,478780
@@ -3156,7 +3149,6 @@ corp_code,corp_name,corp_eng_name,stock_code
 00149345,조흥,CHOHEUNG CORPORATION,002600
 00449254,쎄트렉아이,"SatrecInitiativeCo.,Ltd.",099320
 00545734,아미코젠,"Amicogen, Inc.",092040
-00340917,동원F&B,"DONGWON F & B CO.,LTD",049770
 00560849,에스앤디,"S&D Co., Ltd",260970
 00428321,해태제과식품,"Haitai Confectionery and Foods Co., Ltd.",101530
 00397252,조이시티,JoyCity Corporation,067000
@@ -3224,7 +3216,6 @@ corp_code,corp_name,corp_eng_name,stock_code
 00145190,유화증권,"YUHWA SECURITIES CO.,LTD",003460
 01851650,KB제30호스팩,KB No.30 Special Purpose Acquisition Company,486630
 00605522,소룩스,"Solux Co., Ltd.",290690
-01011438,에이치엘사이언스,"HLSCIENCE Co., LTD",239610
 00910202,대동고려삼,"DAEDONG KOREA GINSENG CO.,LTD.",178600
 00103626,한솔피엔에스,"HANSOL PNS CO.,LTD.",010420
 00317089,한국애보트진단,Abbott Diagnostics Korea Inc.,066930
@@ -3473,7 +3464,6 @@ corp_code,corp_name,corp_eng_name,stock_code
 00296290,키움증권,"KIWOOM Securities Co.,Ltd.",039490
 00945776,지슨,"GITSN, Inc.",289860
 01226410,씨앤씨인터내셔널,"C&C International Co.,Ltd.",352480
-01693922,키움제8호스팩,Kiwoom No.8 Special Purpose Acquisition Company,446840
 01109070,비피도,BIFIDO. Co. Ltd,238200
 01593242,하나금융21호기업인수목적,Hana Financial Twenty-one SPAC,406760
 01073261,동방메디컬,"DongBang Medical Co., Ltd.",240550
@@ -3565,6 +3555,7 @@ corp_code,corp_name,corp_eng_name,stock_code
 00269889,누리플렉스,"NuriFlex Co.,Ltd.",040160
 00633835,HJ중공업,"HJ SHIPBUILDING & CONSTRUCTION CO.,LTD",097230
 00408336,인산가,INSAN Inc.,062580
+01649620,아우토크립트,"Autocrypt Co., Ltd.",331740
 01263022,BGF리테일,"BGF retail CO., LTD.",282330
 00219097,BGF,"BGF CO., LTD.",027410
 00204642,티비씨,TBC,033830
@@ -3594,7 +3585,11 @@ corp_code,corp_name,corp_eng_name,stock_code
 01696451,대신밸런스제14호기업인수목적,Daishin Balance No.14 Special Purpose Acquisition Company,442310
 01677678,교보13호기업인수목적,Kyobo 13 Special Purpose Acquisition Company,440790
 00140061,티케이지애강,"TKG AIKANG CO., LTD",022220
+01867758,한화비전,"Hanwha Vision CO.,LTD",489790
+00693554,티케이케미칼,TK CHEMICAL CORPORATION,104480
 00169048,HLB글로벌,"HLB GLOBAL Co., Ltd.",003580
+00182696,대한조선,"DAEHAN SHIPBUILDING Co., Ltd.",439260
+01326279,아이엘,"IL CO.,LTD.",307180
 00113544,대한화섬,"DAEHAN SYNTHETIC FIBRER CO.,LTD",003830
 00143226,엠투엔,"M2N Co.,Ltd",033310
 00145738,이화전기,"EHWA TECHNOLOGIES INFORMATION CO., LTD.",024810
@@ -3666,10 +3661,10 @@ corp_code,corp_name,corp_eng_name,stock_code
 01688568,프로티나,"PROTEINA CO.,LTD.",468530
 01454341,플래티어,"Plateer Co., Ltd.",367000
 00428729,대호에이엘,"DAEHO AL Co.,Ltd.",069460
-01649620,아우토크립트,"Autocrypt Co., Ltd.",331740
 00945208,더미동,"THE MIDONG Co,. Ltd",161570
 00109189,대덕,"DAEDUCK Co.,LTD",008060
 01902990,KB제32호스팩,KB No.32 Special Purpose Acquisition Company,0037T0
+00340917,동원F&B,"DONGWON F & B CO.,LTD",049770
 00159810,카프로,CAPRO CORPORATION,006380
 00362122,나래나노텍,NARAE NANOTECH CORPORATION,137080
 00360142,아이마켓코리아,iMarketKorea Inc.,122900
@@ -3738,7 +3733,6 @@ corp_code,corp_name,corp_eng_name,stock_code
 00260745,서울평가정보,Seoul Information Service Inc.,036120
 00620868,아이티센글로벌,"ITCENGLOBAL CO.,LTD.",124500
 01230255,한울앤제주,"HanWool & Jeju, Inc.",276730
-01326279,아이엘,"IL CO.,LTD.",307180
 01393721,포커스에이아이,"FOCUS AI Co., Ltd.",331380
 00406222,쎄크,"SEC co.,ltd.",081180
 00679314,동성케미컬,"DONGSUNG CHEMICAL Co., Ltd.",102260
@@ -3759,7 +3753,6 @@ corp_code,corp_name,corp_eng_name,stock_code
 00563545,두산테스나,DOOSAN TESNA Inc.,131970
 00444329,위메이드,"Wemade Co., Ltd.",112040
 01011395,레몬,LEMON COMPANY LIMITED,294140
-01067808,넵튠,Neptune Company,217270
 00112907,코원에너지서비스,"Ko-one energy service co.,ltd.",026870
 01760738,OCI,OCI Company Ltd.,456040
 00306870,손오공,"SONOKONGCO.,LTD.",066910
@@ -3785,8 +3778,13 @@ corp_code,corp_name,corp_eng_name,stock_code
 01702424,미래에셋비전스팩3호,Mirae Asset Vision Special Purpose Acquisition 3 Company,448830
 01221752,지에프씨생명과학,"GFC Life Science Co., Ltd.",388610
 01375822,에이프릴바이오,"AprilBio Co.,Ltd.",397030
+00122825,인스코비,"Inscobee, Inc",006490
+00220109,알파녹스,"Alphanox Co.,Ltd.",043100
 01428203,케이씨씨글라스,KCC GLASS Corporation,344820
 00361725,네이트커뮤니케이션즈,NATE Communications Corporation,066270
+00232089,바이온,"BYON Co., Ltd.",032980
+01011438,에이치엘사이언스,"HLSCIENCE Co., LTD",239610
+01693922,키움제8호스팩,Kiwoom No.8 Special Purpose Acquisition Company,446840
 00385415,일신바이오,"ilShinbiobase Co., Ltd.",068330
 00101044,에이프로젠바이오로직스,Aprogen Biologics Inc.,003060
 00129411,삼환기업,SAMWHAN CORPORATION,000360
@@ -3795,7 +3793,6 @@ corp_code,corp_name,corp_eng_name,stock_code
 00442826,대봉엘에스,"Daebonglsco.,Ltd",078140
 00186559,아이티센씨티에스,ITCENCTS,031820
 00166227,화승인더스트리,"HS INDUSTRIES CO.,LTD",006060
-01867758,한화비전,"Hanwha Vision CO.,LTD",489790
 00180865,디에이치엑스컴퍼니,"DHX Company Co., Ltd.",031860
 01416642,다보링크,DAVOLINK Inc.,340360
 01290132,인터로이드,"InterRoid Co., Ltd.",311960
@@ -3842,6 +3839,7 @@ corp_code,corp_name,corp_eng_name,stock_code
 01374443,인투셀,"IntoCell, Inc.",287840
 01152586,유일로보틱스,"Yuilrobotics.  co., Ltd",388720
 01675254,엔에이치기업인수목적26호,NHSPECIAL PURPOSE ACQUISITION26 COMPANY,439410
+01516456,인벤티지랩,Inventage Lab Inc.,389470
 00108746,DKME,"DKME Co., Ltd.",015590
 01027794,브이원텍,"V-ONE TECH CO., LTD.",251630
 01262032,롯데이노베이트,"LOTTE INNOVATE Co.,Ltd",286940
@@ -3850,7 +3848,6 @@ corp_code,corp_name,corp_eng_name,stock_code
 01602638,한싹,"Hanssak Co., Ltd.",430690
 01674538,엔에이치기업인수목적24호,NH SPECIAL PURPOSE ACQUISITION 24 COMPANY,437780
 01669475,하나금융25호기업인수목적,Hana Financial Twenty-five SPAC,435620
-00232089,바이온,"BYON Co., Ltd.",032980
 01563667,더즌,Dozn Inc.,462860
 01182444,셀리버리,"Cellivery Therapeutics, Inc.",268600
 01332137,노보믹스,"Novomics Co., Ltd.",283100
@@ -3874,6 +3871,10 @@ corp_code,corp_name,corp_eng_name,stock_code
 01549472,대진첨단소재,DAEJIN ADVANCED MATERIALS Inc.,393970
 01506990,옵티코어,OptiCore Inc.,380540
 00362201,세운메디칼,"SEWOONMEDICAL CO,. LTD.",100700
+01067808,넵튠,Neptune Company,217270
+01199727,샘씨엔에스,"SEMCNS Co., Ltd.",252990
+01409022,현대ADM,Hyundai ADM Bio lnc.,187660
+01689938,신영해피투모로우제9호기업인수목적,Shinyoung HappyTomorrow No.9 Special Purpose Acquisition Company,445970
 00102858,고려아연,KOREA ZINC INC,010130
 00862880,새빗켐,"Sebitchem Co., LTD",107600
 01267550,나라소프트,"NARASOFT Co.,Ltd.",288490
