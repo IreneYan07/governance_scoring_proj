@@ -1,0 +1,7 @@
+requests
+numpy
+pandas
+beautifulsoup4
+
+selenium==4.35.0
+webdriver-manager
