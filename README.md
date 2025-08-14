@@ -1,6 +1,6 @@
 # Governance Database 
 
-Pulls all required information from API calls directly to OPENDART to build a database of KOSPI-listed corporations and their most recent reports regarding executive status and compensation. 
+Pulls all required information from OPENDART API to build a database of KOSPI-listed corporations and their most recent reports regarding executive status and compensation. 
 
 ## Outputs 
 
@@ -15,8 +15,3 @@ columns:	Gender, Position, Status, Responsibilities, Relation to Largest Shareho
 columns: 	corp_code, corp_name,	Audit Committee,	Audit Committee ODs,	Inside Directors,	Outside Directors,	Other Non-Exec Directors,	Auditors,	Female Voting,	Male Voting,	Voting Directors,	Non Registered,	Total Assets (YYYY)*,	Total Assets (YYYY - 1),	Total Assets (YYYY - 2),	rcept_no
 
 * where YYYY indicates the most recent annual report
-
-## Data Extraction Notebook 
-
-
-## Data Preprocessing Notebook 
